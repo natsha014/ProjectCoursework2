@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Python-разработчик middle (FastAPI, AI/ML)",
+        "url": "https://hh.ru/vacancy/128627433",
+        "salary_from": 230000,
+        "salary_to": 0,
+        "description": "VCS&CI/CD: Git, code review, автотесты. Ключевые задачи. <highlighttext>Разработка</highlighttext> и поддержка backend-микросервисов на FastAPI. Интеграция с LLM (OpenAI..."
+    },
+    {
+        "title": "Python Developer",
+        "url": "https://hh.ru/vacancy/128841960",
+        "salary_from": 210000,
+        "salary_to": 0,
+        "description": "<highlighttext>Разработка</highlighttext> и поддержка API расчёта изделий (FastAPI + SQLAlchemy). Интеграции с ML-моделями (REST/gRPC), сопровождение версий. Построение ETL-пайплайнов..."
+    },
+    {
+        "title": "ML / LLM Engineer",
+        "url": "https://hh.ru/vacancy/128532337",
+        "salary_from": 170000,
+        "salary_to": 0,
+        "description": "Разрабатывать и сопровождать ML/LLM-сервисы на <highlighttext>Python</highlighttext> (FastAPI/Flask), участвовать в их деплое и мониторинге. Работать с данными (SQL..."
+    },
+    {
+        "title": "SQL-программист / Разработчик баз данных",
+        "url": "https://hh.ru/vacancy/114811554",
+        "salary_from": 150000,
+        "salary_to": 0,
+        "description": "...в роле ведущего <highlighttext>разработчика</highlighttext> в проекте по переходу на новое ПО(ERP) собственной <highlighttext>разработки</highlighttext> базы PostgreSQL. Обязанности. <highlighttext>Разработка</highlighttext> SQL-запросов..."
+    },
+    {
+        "title": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/129081269",
+        "salary_from": 150000,
+        "salary_to": 0,
+        "description": "<highlighttext>Разработка</highlighttext> и поддержка backend-сервисов и REST API на <highlighttext>Python</highlighttext> (FastAPI, Django). - Проектирование архитектуры приложений, участие в рефакторинге и оптимизации..."
+    },
+    {
+        "title": "Fullstack-разработчик (Python/FastAPI + Next. js/React)",
+        "url": "https://hh.ru/vacancy/129209993",
+        "salary_from": 130000,
+        "salary_to": 0,
+        "description": "Backend & DB: Создание и поддержка микросервисов на FastAPI, оптимизация запросов SQLAlchemy и управление миграциями (Alembic). Frontend: <highlighttext>Разработка</highlighttext> интерфейсов с использованием..."
+    }
+]
