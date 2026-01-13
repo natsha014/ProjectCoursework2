@@ -1,10 +1,14 @@
 from src.class_hh_api import HeadHunterAPI
-from src.json_class import JSONSaver
 from src.class_vacancy import Vacancy
-from src.utils import filter_vacancies, get_vacancies_by_salary, sort_vacancies, get_top_vacancies, print_vacancies
+from src.json_class import JSONSaver
+from src.utils import filter_vacancies
+from src.utils import get_top_vacancies
+from src.utils import get_vacancies_by_salary
+from src.utils import print_vacancies
+from src.utils import sort_vacancies
 
 
-def user_interaction():
+def main() -> None:
     # 1. Сбор данных
     hh_api = HeadHunterAPI()
     search_query = input("Введите поисковый запрос: ")
@@ -34,4 +38,4 @@ def user_interaction():
 
 
 if __name__ == "__main__":
-    user_interaction()
+    main()
