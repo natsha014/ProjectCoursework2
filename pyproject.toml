@@ -11,6 +11,7 @@ python-dotenv = "^1.1.1"
 pandas = "^2.3.3"
 requests = "^2.32.5"
 poetry-core = "^2.2.1"
+self = "^2020.12.3"
 
 
 [tool.poetry.group.lint.dependencies]
@@ -23,6 +24,12 @@ isort = "^6.0.1"
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.4.2"
 pytest-cov = "^6.3.0"
+
+
+[tool.coverage.report]
+omit = [
+    "main.py",
+]
 
 
 [build-system]
